@@ -1,4 +1,4 @@
 print("Hello World")
-imie = 'adam'
+imiee = 'adam'
 
-print(imie)
+print(imiee)
